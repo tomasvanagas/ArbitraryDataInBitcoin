@@ -1,0 +1,34 @@
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\IndividualiUzduotis.exe.config
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\IndividualiUzduotis.exe
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\IndividualiUzduotis.pdb
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\Bitcoin Tool.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\BitcoinBlockchain.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\Newtonsoft.Json.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\Bitcoin Tool.pdb
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\Bitcoin Tool.dll.config
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\BitcoinBlockchain.xml
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Release\Newtonsoft.Json.xml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\ChainAnalysisWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\HelpWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\MainWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\TransactionsInBlockWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\TransactionWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\ViewAsciiWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\App.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis_MarkupCompile.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis_MarkupCompile.lref
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\ChainAnalysisWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\HelpWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\MainWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\TransactionsInBlockWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\TransactionWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\ViewAsciiWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.g.resources
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.Properties.Resources.resources
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.csproj.CopyComplete
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.exe
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Release\IndividualiUzduotis.pdb

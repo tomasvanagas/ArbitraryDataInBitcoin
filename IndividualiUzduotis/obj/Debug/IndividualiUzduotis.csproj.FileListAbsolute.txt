@@ -1,0 +1,34 @@
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\MainWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\App.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis_MarkupCompile.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis_MarkupCompile.lref
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\IndividualiUzduotis.exe.config
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\IndividualiUzduotis.exe
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\IndividualiUzduotis.pdb
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\MainWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.g.resources
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.Properties.Resources.resources
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.exe
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.pdb
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\ChainAnalysisWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\BitcoinBlockchain.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\BitcoinBlockchain.xml
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\ChainAnalysisWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\IndividualiUzduotis.csproj.CopyComplete
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\TransactionsInBlockWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\TransactionWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\TransactionsInBlockWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\TransactionWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\Bitcoin Tool.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\Bitcoin Tool.pdb
+C:\Users\tomas\Desktop\IndividualiUzduotis\bin\Debug\Bitcoin Tool.dll.config
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\ViewAsciiWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\ViewAsciiWindow.baml
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\HelpWindow.g.cs
+C:\Users\tomas\Desktop\IndividualiUzduotis\obj\Debug\HelpWindow.baml
